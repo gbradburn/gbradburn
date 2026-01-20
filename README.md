@@ -4,7 +4,14 @@
 
 I'm a **Senior Software Engineer** and **Indie Game Developer** at [Midnite Oil Software LLC](http://midniteoilsoftware.com/), based in Cary, North Carolina. I specialize in creating 2D and 3D games for desktop, WebGL, and mobile platforms (iOS and Android) using Unity.
 
-### 🚀 What I Do
+### � Day Job
+
+I'm a **Full-Stack Developer** at [Credence LLC](https://credence-llc.com/), where I develop cutting-edge agentic workflows using modern technologies:
+- **Backend**: Python, FastAPI, FastMCP, PostgreSQL
+- **Frontend**: TypeScript
+- **Framework**: mastra for agent orchestration
+
+### �🚀 What Else I Do
 
 - 🎯 **Game Development**: Creating indie games ranging from arcade classics to educational games
 - 📺 **Content Creation**: Livestreaming game development and producing comprehensive Unity tutorials on my [YouTube channel](https://www.youtube.com/@midniteoilsoftware)
@@ -35,10 +42,17 @@ I'm a **Senior Software Engineer** and **Indie Game Developer** at [Midnite Oil 
 
 ## 💻 Tech Stack
 
+### Game Development
 - **Primary**: C#, Unity 3D, ShaderLab
 - **Platforms**: Windows, Mac, Linux, iOS, Android, WebGL
 - **Game Development**: Unity Engine, 2D/3D Graphics, Physics, AI, Multiplayer
 - **Tools**: Git, CI/CD, Test-Driven Development (TDD)
+
+### Full-Stack Development
+- **Backend**: Python, FastAPI, FastMCP, PostgreSQL
+- **Frontend**: TypeScript
+- **Agent Workflows**: mastra framework
+- **Database**: PostgreSQL
 
 ## 📺 YouTube & Content
 

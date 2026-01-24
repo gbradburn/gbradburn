@@ -43,13 +43,13 @@ I'm a **Full-Stack Developer** at [Credence LLC](https://credence-llc.com/), whe
 ## 💻 Tech Stack
 
 ### Game Development
-- **Primary**: C#, Unity 3D, ShaderLab
-- **Platforms**: Windows, Mac, Linux, iOS, Android, WebGL
+- **Primary**: C#, Unity 3D
+- **Platforms**: Windows, WebGL, iOS, Android, Mac
 - **Game Development**: Unity Engine, 2D/3D Graphics, Physics, AI, Multiplayer
-- **Tools**: Git, CI/CD, Test-Driven Development (TDD)
+- **Tools**: Jetbrains Rider, Git, Bezi
 
 ### Full-Stack Development
-- **Backend**: Python, FastAPI, FastMCP, PostgreSQL
+- **Backend**: Python, FastAPI, FastMCP, PostgreSQL, .Net Core, WebAPI, SQL Server
 - **Frontend**: TypeScript
 - **Agent Workflows**: mastra framework
 - **Database**: PostgreSQL

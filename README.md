@@ -30,8 +30,6 @@ I'm a **Full-Stack Developer** at [Credence LLC](https://credence-llc.com/), whe
 
 ### Unity Tools & Packages
 - **[Object Pool Manager](https://assetstore.unity.com/packages/tools/utilities/object-pool-manager-227215)** - Free Unity Asset Store tool
-- **[Color Palette Gridbox Material Generator](https://github.com/gbradburn/Color-Palette-Gridbox-Material-Generator)** - Unity editor tool for grid-based materials
-- **[Spline Stamper](https://github.com/gbradburn/spline-stamper-unity-terrain-tool)** - Unity Terrain extension tool
 - **[Multiplayer Boilerplate Package](https://github.com/Midnite-Oil-Software-L-L-C/unity_packages/tree/main/Multiplayer)** - For turn-based and realtime games
 
 ### Tutorial Projects

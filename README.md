@@ -25,8 +25,8 @@ I'm a **Full-Stack Developer** at [Credence LLC](https://credence-llc.com/), whe
 - **[Cosmic Space Fortress](https://midniteoilsoftware.itch.io/cosmic-space-fortress)** - Remake of arcade classic Starcastle (Android, WebGL)
 - **[Ninja Eggs](https://apps.apple.com/us/app/ninja-eggs/id1549540942)** - Angry Birds-style physics game with hand-drawn art (iOS, Android)
 - **[Galactic Empires](https://midniteoilsoftware.itch.io/galactic-empires)** - 3D space shooter (Windows, Mac, Linux)
+- **[Math Munchies Mayhem](https://midniteoilsoftware.itch.io/math-munchies-mayhem)** - Educational math game for grades 3-5
 - **We The People** - Historical RPG for Legends of Learning
-- **Math Munchies Mayhem** - Educational math game for grades 3-5
 
 ### Unity Tools & Packages
 - **[Object Pool Manager](https://assetstore.unity.com/packages/tools/utilities/object-pool-manager-227215)** - Free Unity Asset Store tool
